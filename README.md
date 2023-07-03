@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Science Intern at CodeClause**
 
-- 🌱 I’m currently learning **Machine Learning and practicing Data Structures and Algorithms everyday.**
+- 🌱 I’m currently learning **Machine Learning** and **practicing Data Structures and Algorithms everyday.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Full stack developent**
+- 👯 I’m looking to collaborate on **Machine Learning and Full stack development projects**
 
 - 👨‍💻 All of my projects are available at [https://venkatarao-014.github.io/Personal-Portfolio/](https://venkatarao-014.github.io/Personal-Portfolio/)
 
