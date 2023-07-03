@@ -1,11 +1,13 @@
 <h1 align="center">Hello Connections, I'm NAMALA VENKATARAO</h1>
+<h3>I'm a final-year CSE undergraduate pursuing B.Tech at National Institute of Technology, Patna, and an enthusiastic programmer who enjoys coding. I love to work with various technologies and am currently learning new skills.
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatarao-014&label=Profile%20views&color=0e75b6&style=flat" alt="venkatarao-014" /> </p>
 
 - 🔭 I’m currently working on **Data Science Intern at CodeClause**
 
-- 🌱 I’m currently learning **Machine Learning** and **practicing Data Structures and Algorithms everyday.**
+- 🌱 I’m currently learning **Machine Learning** and practicing **Data Structures and Algorithms everyday.**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Full stack development projects**
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **namalav.ug20.cse@nitp.ac.in**
 
-- ⚡ Fun fact **I love to working with real world problems.!**
+- ⚡ Fun fact **I love working with real world problems.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
