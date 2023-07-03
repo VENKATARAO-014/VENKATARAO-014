@@ -1,5 +1,5 @@
-<h1 align="center">Hello connections, I'm NAMALA VENKATARAO</h1>
-<h3 align="center">A passionate Software developer and Data Analyst from India</h3>
+<h1 align="center">Hello Connections, I'm NAMALA VENKATARAO</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatarao-014&label=Profile%20views&color=0e75b6&style=flat" alt="venkatarao-014" /> </p>
 
