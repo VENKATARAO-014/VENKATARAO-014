@@ -1,6 +1,12 @@
-<h1 align="center">Hello Connections, I'm NAMALA VENKATARAO</h1>
-<h3>I'm a final-year CSE undergraduate pursuing B.Tech at National Institute of Technology, Patna, and an enthusiastic programmer who enjoys coding. I love to work with various technologies and am currently learning new skills.
-</h3>
+<img src="https://i.postimg.cc/1zmsjtQD/1678975689661.jpg" 
+         alt="Waving hand animated gif"
+          />
+<h1 align="center">Hello Connections <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm NAMALA VENKATARAO</h1>
+<h5>I'm a final-year CSE undergraduate pursuing B.Tech at National Institute of Technology, Patna, and an enthusiastic programmer who enjoys coding. I love to work with various technologies and am currently learning new skills.
+</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatarao-014&label=Profile%20views&color=0e75b6&style=flat" alt="venkatarao-014" /> </p>
